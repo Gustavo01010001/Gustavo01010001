@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="196" viewBox="0 0 460 196">
+  
+  <style>
+    .titulo { font: 700 19px 'Segoe UI', Ubuntu, sans-serif; fill: #c77dff; }
+    .label  { font: 400 14px 'Segoe UI', Ubuntu, sans-serif; fill: #e0d4ff; }
+    .valor  { font: 700 14px 'Segoe UI', Ubuntu, sans-serif; fill: #ffffff; }
+    .grande { font: 800 26px 'Segoe UI', Ubuntu, sans-serif; fill: #ffffff; }
+    .peq    { font: 400 11px 'Segoe UI', Ubuntu, sans-serif; fill: #a38fc7; }
+    .linha  { opacity: 0; animation: entra .5s ease forwards; }
+    @keyframes entra { from { opacity: 0; transform: translateX(-8px); } to { opacity: 1; transform: none; } }
+    .anel   { stroke-dasharray: 251; stroke-dashoffset: 251; animation: anel 1.4s ease .3s forwards; }
+    @keyframes anel { to { stroke-dashoffset: 0; } }
+  </style>
+  <defs>
+    <linearGradient id="fundo" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1a0033"/>
+      <stop offset="1" stop-color="#0d0117"/>
+    </linearGradient>
+    <linearGradient id="roxo" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7b2ff7"/>
+      <stop offset="1" stop-color="#c77dff"/>
+    </linearGradient>
+  </defs>
+  <clipPath id="arredonda"><rect x="24" y="54" width="412" height="10" rx="5"/></clipPath>
+  <rect x="1" y="1" width="458" height="194" rx="12" fill="url(#fundo)" stroke="url(#roxo)" stroke-width="2"/>
+  <text x="24" y="36" class="titulo">Linguagens mais usadas</text>
+  <g clip-path="url(#arredonda)"><rect x="24.0" y="54" width="286.2" height="10" fill="#f1e05a"/><rect x="310.2" y="54" width="57.8" height="10" fill="#663399"/><rect x="368.1" y="54" width="32.6" height="10" fill="#a91e50"/><rect x="400.6" y="54" width="19.9" height="10" fill="#e34c26"/><rect x="420.5" y="54" width="9.9" height="10" fill="#7355dd"/><rect x="430.4" y="54" width="2.5" height="10" fill="#555555"/><rect x="432.9" y="54" width="2.0" height="10" fill="#89e051"/><rect x="434.9" y="54" width="2.0" height="10" fill="#012456"/></g>
+  
+  <g class="linha" style="animation-delay:0.15s">
+    <circle cx="30" cy="92" r="5" fill="#f1e05a"/>
+    <text x="42" y="97" class="label">JavaScript <tspan class="peq">69,5%</tspan></text>
+  </g>
+  <g class="linha" style="animation-delay:0.25s">
+    <circle cx="250" cy="92" r="5" fill="#663399"/>
+    <text x="262" y="97" class="label">CSS <tspan class="peq">14,0%</tspan></text>
+  </g>
+  <g class="linha" style="animation-delay:0.35s">
+    <circle cx="30" cy="118" r="5" fill="#a91e50"/>
+    <text x="42" y="123" class="label">EJS <tspan class="peq">7,9%</tspan></text>
+  </g>
+  <g class="linha" style="animation-delay:0.45000000000000007s">
+    <circle cx="250" cy="118" r="5" fill="#e34c26"/>
+    <text x="262" y="123" class="label">HTML <tspan class="peq">4,8%</tspan></text>
+  </g>
+  <g class="linha" style="animation-delay:0.55s">
+    <circle cx="30" cy="144" r="5" fill="#7355dd"/>
+    <text x="42" y="149" class="label">C# <tspan class="peq">2,4%</tspan></text>
+  </g>
+  <g class="linha" style="animation-delay:0.65s">
+    <circle cx="250" cy="144" r="5" fill="#555555"/>
+    <text x="262" y="149" class="label">C <tspan class="peq">0,6%</tspan></text>
+  </g>
+  <g class="linha" style="animation-delay:0.7500000000000001s">
+    <circle cx="30" cy="170" r="5" fill="#89e051"/>
+    <text x="42" y="175" class="label">Shell <tspan class="peq">0,5%</tspan></text>
+  </g>
+  <g class="linha" style="animation-delay:0.8500000000000001s">
+    <circle cx="250" cy="170" r="5" fill="#012456"/>
+    <text x="262" y="175" class="label">PowerShell <tspan class="peq">0,2%</tspan></text>
+  </g>
+</svg>
