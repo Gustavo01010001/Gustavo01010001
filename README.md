@@ -9,7 +9,6 @@
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=Gustavo01010001&label=visitas&color=7b2ff7&style=for-the-badge" alt="visitas" />
-<img src="https://img.shields.io/github/followers/Gustavo01010001?label=seguidores&style=for-the-badge&color=9d4edd&logo=github" alt="seguidores" />
 
 </div>
 
@@ -51,12 +50,12 @@
 
 | Projeto | O que é | Tecnologias |
 | :-- | :-- | :-- |
-| 📝 [**Mural de Notas**](https://github.com/Gustavo01010001/mural-de-notas) | Bloco de notas online com post-its animados, pastas, busca, clima dinâmico, lembretes e trabalho em grupo | ![Next.js](https://img.shields.io/badge/Next.js-1a0033?style=flat-square&logo=nextdotjs) ![Express](https://img.shields.io/badge/Express-1a0033?style=flat-square&logo=express) ![SQLite](https://img.shields.io/badge/SQLite-1a0033?style=flat-square&logo=sqlite) |
-| 🎮 [**AEG Game Portfolio**](https://github.com/Gustavo01010001/AEGGamePortfolio) | Portfólio dos meus projetos de games | ![C#](https://img.shields.io/badge/C%23-1a0033?style=flat-square&logo=dotnet) ![JavaScript](https://img.shields.io/badge/JavaScript-1a0033?style=flat-square&logo=javascript) |
-| 💈 [**Barbearia**](https://github.com/Gustavo01010001/Barbearia) · [🔗 ver online](https://barbearia-ten-omega.vercel.app) | Landing, agendamento com checagem de horário em tempo real e painel admin | ![Next.js](https://img.shields.io/badge/Next.js-1a0033?style=flat-square&logo=nextdotjs) ![MySQL](https://img.shields.io/badge/MySQL-1a0033?style=flat-square&logo=mysql) ![Docker](https://img.shields.io/badge/Docker-1a0033?style=flat-square&logo=docker) |
-| 🧁 [**Doceria da Raissa**](https://github.com/Gustavo01010001/Doceria-da-Raissa) | Sistema web para uma doceria | ![Node.js](https://img.shields.io/badge/Node.js-1a0033?style=flat-square&logo=nodedotjs) ![EJS](https://img.shields.io/badge/EJS-1a0033?style=flat-square&logo=ejs) |
-| 🃏 [**21 Blackjack**](https://github.com/Gustavo01010001/FIPP21--Winx) | Jogo de 21 em equipe | ![React](https://img.shields.io/badge/React-1a0033?style=flat-square&logo=react) ![Express](https://img.shields.io/badge/Express-1a0033?style=flat-square&logo=express) |
-| 💌 [**Parabéns, pai!**](https://github.com/Gustavo01010001/parabens-pai) · [🔗 ver online](https://gustavo01010001.github.io/parabens-pai/) | Carta animada de aniversário | ![HTML](https://img.shields.io/badge/HTML-1a0033?style=flat-square&logo=html5) ![CSS](https://img.shields.io/badge/CSS-1a0033?style=flat-square&logo=css3) |
+| 📝 [**Mural de Notas**](https://github.com/Gustavo01010001/mural-de-notas) | Bloco de notas online com post-its animados, pastas, busca, clima dinâmico, lembretes e trabalho em grupo | <img src="https://skillicons.dev/icons?i=nextjs,express,sqlite&theme=dark" height="30" /> |
+| 🎮 [**AEG Game Portfolio**](https://github.com/Gustavo01010001/AEGGamePortfolio) | Portfólio dos meus projetos de games | <img src="https://skillicons.dev/icons?i=cs,js&theme=dark" height="30" /> |
+| 💈 [**Barbearia**](https://github.com/Gustavo01010001/Barbearia) · [🔗 ver online](https://barbearia-ten-omega.vercel.app) | Landing, agendamento com checagem de horário em tempo real e painel admin | <img src="https://skillicons.dev/icons?i=nextjs,mysql,docker&theme=dark" height="30" /> |
+| 🧁 [**Doceria da Raissa**](https://github.com/Gustavo01010001/Doceria-da-Raissa) | Sistema web para uma doceria | <img src="https://skillicons.dev/icons?i=nodejs,js,css&theme=dark" height="30" /> |
+| 🃏 [**21 Blackjack**](https://github.com/Gustavo01010001/FIPP21--Winx) | Jogo de 21 em equipe | <img src="https://skillicons.dev/icons?i=react,express&theme=dark" height="30" /> |
+| 💌 [**Parabéns, pai!**](https://github.com/Gustavo01010001/parabens-pai) · [🔗 ver online](https://gustavo01010001.github.io/parabens-pai/) | Carta animada de aniversário | <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" height="30" /> |
 
 ---
 
@@ -81,7 +80,7 @@
 
 ### 💜 Obrigado pela visita!
 
-<img src="https://img.shields.io/badge/GitHub-Gustavo01010001-7b2ff7?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/Gustavo01010001?tab=repositories"><b>👉 Veja todos os meus repositórios</b></a>
 
 </div>
 
