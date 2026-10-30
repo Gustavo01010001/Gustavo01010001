@@ -27,12 +27,12 @@
   <g class="linha" style="animation-delay:0.1s">
     <circle cx="30" cy="64" r="4" fill="#c77dff"/>
     <text x="44" y="69" class="label">Contribuições no último ano:</text>
-    <text x="270" y="69" class="valor" text-anchor="end">68</text>
+    <text x="270" y="69" class="valor" text-anchor="end">70</text>
   </g>
   <g class="linha" style="animation-delay:0.22s">
     <circle cx="30" cy="88" r="4" fill="#c77dff"/>
     <text x="44" y="93" class="label">Commits no último ano:</text>
-    <text x="270" y="93" class="valor" text-anchor="end">60</text>
+    <text x="270" y="93" class="valor" text-anchor="end">61</text>
   </g>
   <g class="linha" style="animation-delay:0.33999999999999997s">
     <circle cx="30" cy="112" r="4" fill="#c77dff"/>
@@ -57,7 +57,7 @@
   <g transform="translate(370 118)">
     <circle r="40" fill="none" stroke="#2a1145" stroke-width="7"/>
     <circle r="40" fill="none" stroke="url(#roxo)" stroke-width="7" stroke-linecap="round" class="anel" transform="rotate(-90)"/>
-    <text y="6" class="grande" text-anchor="middle">68</text>
+    <text y="6" class="grande" text-anchor="middle">70</text>
     <text y="62" class="peq" text-anchor="middle">contribuições</text>
   </g>
 </svg>
