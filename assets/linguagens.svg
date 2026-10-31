@@ -24,15 +24,15 @@
   <clipPath id="arredonda"><rect x="24" y="54" width="412" height="10" rx="5"/></clipPath>
   <rect x="1" y="1" width="458" height="194" rx="12" fill="url(#fundo)" stroke="url(#roxo)" stroke-width="2"/>
   <text x="24" y="36" class="titulo">Linguagens mais usadas</text>
-  <g clip-path="url(#arredonda)"><rect x="24.0" y="54" width="292.7" height="10" fill="#f1e05a"/><rect x="316.7" y="54" width="57.1" height="10" fill="#663399"/><rect x="373.8" y="54" width="29.8" height="10" fill="#a91e50"/><rect x="403.6" y="54" width="18.2" height="10" fill="#e34c26"/><rect x="421.8" y="54" width="9.1" height="10" fill="#7355dd"/><rect x="430.9" y="54" width="2.3" height="10" fill="#555555"/><rect x="433.2" y="54" width="2.0" height="10" fill="#89e051"/><rect x="435.2" y="54" width="2.0" height="10" fill="#012456"/></g>
+  <g clip-path="url(#arredonda)"><rect x="24.0" y="54" width="292.3" height="10" fill="#f1e05a"/><rect x="316.3" y="54" width="58.1" height="10" fill="#663399"/><rect x="374.4" y="54" width="29.5" height="10" fill="#a91e50"/><rect x="403.9" y="54" width="18.0" height="10" fill="#e34c26"/><rect x="422.0" y="54" width="9.0" height="10" fill="#7355dd"/><rect x="431.0" y="54" width="2.3" height="10" fill="#555555"/><rect x="433.2" y="54" width="2.0" height="10" fill="#89e051"/><rect x="435.2" y="54" width="2.0" height="10" fill="#012456"/></g>
   
   <g class="linha" style="animation-delay:0.15s">
     <circle cx="30" cy="92" r="5" fill="#f1e05a"/>
-    <text x="42" y="97" class="label">JavaScript <tspan class="peq">71,0%</tspan></text>
+    <text x="42" y="97" class="label">JavaScript <tspan class="peq">70,9%</tspan></text>
   </g>
   <g class="linha" style="animation-delay:0.25s">
     <circle cx="250" cy="92" r="5" fill="#663399"/>
-    <text x="262" y="97" class="label">CSS <tspan class="peq">13,9%</tspan></text>
+    <text x="262" y="97" class="label">CSS <tspan class="peq">14,1%</tspan></text>
   </g>
   <g class="linha" style="animation-delay:0.35s">
     <circle cx="30" cy="118" r="5" fill="#a91e50"/>
